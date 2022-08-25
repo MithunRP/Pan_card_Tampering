@@ -13,4 +13,4 @@
 **Step 7**: You will get **url** copy it and paste in browser.<br>
 You have sample_data folder where you can get images to test.<br>
 
-<h2 text-aling="centre"> Made by **MITHUN RP** <h2>
+<h2 text-aling:"center"> Made by <b>MITHUN RP<b></h2>
